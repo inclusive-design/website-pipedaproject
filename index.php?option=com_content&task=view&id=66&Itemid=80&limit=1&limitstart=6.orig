@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Privacy Project - Final Report</title>
+<meta name="description" content="Evaluating Privacy Policies" />
+<meta name="keywords" content="privacy, PIPEDA" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2006 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+	<link rel="shortcut icon" href="http://pipedaproject.idrc.ocadu.ca/images/favicon.ico" />
+	<link rel="shortcut icon" href="http://pipedaproject.idrc.ocadu.ca/images/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/css/template_css.css" />
+</head>
+<body>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+<tr>
+	<td width="6" bgcolor="#FFFFFF">
+	<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer" />
+	</td>
+	<td valign="top" class="greybg" >
+		<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="ffffff">
+		<tr>
+			<td bgcolor="#FFFFFF">
+			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="6" alt="spacer" /></td>
+
+		</tr>
+		<tr>
+			<td rowspan="3" valign="bottom" bgcolor="#FFFFFF">
+			<p>
+			<font class="title">
+			Privacy Project			</font>
+<font class="subtitle"><BR>
+			Implementing PIPEDA:
+A Review of Internet Privacy Statements and Online Practices
+</font>
+			<br />
+			
+			</p>
+			</td>
+
+		</tr>
+		<tr>
+			<td height="10">
+			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="10" alt="spacer" />
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+						</td>
+		</tr>
+		</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+		<tr>
+<td>
+&nbsp&nbsp
+</td>
+
+
+			<td  align="left" valign="top" cellpadding="0">
+
+				</td>
+        <td align="right">
+
+			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/image_01.jpg" width="600" height="50" alt="header" align="right"/>
+			</td>
+		</tr>
+		</table>
+		<!-- This is the vertical menu. Change the links as needed or delete the script from this line if you dont use it-->
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td>
+			<ul id="mainlevel-nav"><li><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_weblinks&amp;catid=75&amp;Itemid=4" class="mainlevel-nav" >Links</a></li><li><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_contact&amp;Itemid=3" class="mainlevel-nav" >Contact Us</a></li><li><a href="http://pipedaproject.idrc.ocadu.ca/index.php" class="mainlevel-nav" >Home</a></li></ul>			</td>
+		</tr>
+		</table>
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="190" valign="top" bgcolor="#eeeeee">
+					<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Main Menu				</th>
+			</tr>
+					<tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_frontpage&amp;Itemid=1" class="mainlevel" >Home</a></td></tr>
+<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=19&amp;Itemid=48" class="mainlevel" >About the project</a></td></tr>
+<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_contact&amp;Itemid=3" class="mainlevel" >Contact Us</a></td></tr>
+<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_search&amp;Itemid=27" class="mainlevel" >Search</a></td></tr>
+<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=70" class="mainlevel" >Conference</a></td></tr>
+<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_simpleboard&amp;Itemid=61" class="mainlevel" >Public Forum</a></td></tr>
+<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=60&amp;Itemid=76" class="mainlevel" >Supporting Organizations</a></td></tr>
+<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=66&amp;Itemid=80" class="mainlevel" id="active_menu">Final Report</a></td></tr>
+</table>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/administrator/" class="mainlevel" >Administrator</a></td></tr>
+</table>			</td>
+		</tr>
+		</table>
+					</td>
+			<td width="6" bgcolor="#FFFFFF">&nbsp;</td>
+			<td valign="top">
+			<br />
+				<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td class="pathway">
+					<span class="pathway"><a href="http://pipedaproject.idrc.ocadu.ca/index.php" class="pathway">Home</a> <img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/arrow.png" border="0" alt="arrow" />   Final Report </span>					</td>
+				</tr>
+				</table>
+			<br />
+				<table width="98%" border="0" align="center" cellpadding="4" cellspacing="0">
+				<tr>
+					<td class="mainpage">
+
+								<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					Final Report									</td>
+								<td align="right" width="100%" class="buttonheading">
+					<a href="http://pipedaproject.idrc.ocadu.ca/index2.php?option=com_content&amp;task=view&amp;id=66&amp;pop=1&amp;page=6&amp;Itemid=80" target="_blank" onclick="window.open('http://pipedaproject.idrc.ocadu.ca/index2.php?option=com_content&amp;task=view&amp;id=66&amp;pop=1&amp;page=6&amp;Itemid=80','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" title="Print">
+						<img src="http://pipedaproject.idrc.ocadu.ca/images/M_images/printButton.png"  alt="Print" name="Print" align="middle" border="0" /></a>
+				</td>
+							<td align="right" width="100%" class="buttonheading">
+				<a href="http://pipedaproject.idrc.ocadu.ca/index2.php?option=com_content&amp;task=emailform&amp;id=66&amp;itemid=80" target="_blank" onclick="window.open('http://pipedaproject.idrc.ocadu.ca/index2.php?option=com_content&amp;task=emailform&amp;id=66&amp;itemid=80','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=400,height=250,directories=no,location=no'); return false;" title="E-mail">
+					<img src="http://pipedaproject.idrc.ocadu.ca/images/M_images/emailButton.png"  alt="E-mail" name="E-mail" align="middle" border="0" /></a>
+			</td>
+						</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Tuesday, 24 May 2005				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				
+	<table cellpadding="0" cellspacing="0" class="contenttoc" align="right">
+	<tr>
+		<th>Article Index</th>
+	</tr>
+	
+	<tr>
+		<td>
+		<a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=66&amp;Itemid=80" class="toclink">Final Report</a>
+		</td>
+	</tr>
+	
+				<tr>
+					<td>
+					<a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=66&amp;Itemid=80&amp;limit=1&amp;limitstart=1" class="toclink">Introduction</a>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+					<a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=66&amp;Itemid=80&amp;limit=1&amp;limitstart=2" class="toclink">Project Achievements</a>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+					<a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=66&amp;Itemid=80&amp;limit=1&amp;limitstart=3" class="toclink">Telecommunications</a>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+					<a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=66&amp;Itemid=80&amp;limit=1&amp;limitstart=4" class="toclink">Airlines</a>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+					<a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=66&amp;Itemid=80&amp;limit=1&amp;limitstart=5" class="toclink">Banking</a>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+					<a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=66&amp;Itemid=80&amp;limit=1&amp;limitstart=6" class="toclink">Retail</a>
+					</td>
+				</tr>
+				</table><div class="pagenavcounter">Page 7 of 7</div><br style="page-break-before: always;" />
+<div> <h1><a name="_Toc102981615" /><a name="_Toc102981829" /><a name="_Toc102982083" /><a name="_Toc103387388" /><a name="_Toc103387886" /><a name="_Toc103418736">Retail: &quot;An Industry-Specific Approach to
+Privacy Statements in the Retail Sector&quot;</a></h1>
+<p>by Aniz Alani</p> <p>The
+purpose of this report is to examine issues concerning the protection
+of personal information within the retail business sector in Canada
+and, in particular, the extent to which retail businesses&#39; web site
+privacy statements address these concerns.</p>
+<p><strong>Introduction</strong></p>
+<p>As
+of January 1, 2004, the PIPED Act purports to apply to virtually all
+organizations engaging in commercial activity, including retail
+businesses carrying on businesses entirely within a single province.
+The PIPED Act does not apply, however, in provinces where
+&quot;substantially similar&quot; legislation has been enacted. British Columbia,
+Alberta, and Quebec have passed substantially similar privacy statutes.
+The PIPED Act continues to apply, however, in all cases where personal
+information is transferred outside of a province.</p>
+<p>For
+the purpose of this report, &quot;retail business&quot; includes any organization
+which engages in the sale of commodities or goods to an ultimate
+consumer. </p> <p>It is noteworthy that the PIPED Act
+does not distinguish between industry sectors except to the extent that
+some sectors, such as airlines, banking, and telecommunications, are
+considered to be federal works and undertakings. The federally
+regulated industry sectors are clearly within the legislative
+jurisdiction of the Parliament of Canada under s. 92(10) of the
+<em>Constitution Act, 1867</em>.<a name="_ftnref77" href="#_ftn77">[77]</a>
+The application of the PIPED Act to the retail sector has been
+particularly controversial because, unlike federal works, businesses
+and undertakings, retail businesses operating entirely within a
+province are governed by provincial legislation with respect to
+&quot;property and civil rights&quot; under s. 92(13) of the
+<em>Constitution Act, 1867</em>.</p> <p>The
+Government of Canada has very clearly expressed its view that the PIPED
+Act is a valid exercise of Parliament&#39;s legislative jurisdiction in
+areas of trade and commerce under s. 91(2). Former Minister of Industry
+John Manley made the following remarks in the House of Commons with
+respect to jurisdiction over the PIPED Act:</p> <p><span style="font-size: 10pt;">The
+bill is a legitimate exercise of the federal government&#39;s authority to
+legislate in respect of trade and commerce in Canada. The increasing
+ubiquity of networks and the speed of the technology means more
+companies are collecting more information, circulating it more widely
+and combining it more ingeniously than ever before.<a name="_ftnref78" href="#_ftn78">[78]</a></span></p> <p>In
+order to ground the PIPED Act as a valid exercise of Parliament&#39;s
+authority over trade and commerce, specifically in areas otherwise
+falling within provincial jurisdiction, the following five conditions
+must be satisfied: (1) it is part of a general regulatory scheme; (2)
+the scheme must be monitored by the continuing oversight of a
+regulatory agency; (3) the legislation must be concerned with trade as
+a whole rather than with a particular industry; (4) the legislation
+should be of a nature that the provinces jointly or severally would be
+constitutionally incapable of enacting; and (5) the failure to include
+one or more provinces or localities in a legislative scheme would
+jeopardize the successful operation of the scheme in other parts of the
+country.<a name="_ftnref79" href="#_ftn79">[79]</a></p> <p>The
+constitutional validity of the PIPED Act, specifically whether it
+represents a valid exercise of Parliament&#39;s authority under the general
+trade and commerce power, has been challenged by the Government of
+Quebec. A reference question on this issue has been submitted to the
+Quebec Court of Appeal.</p> <p>Without addressing the
+merits of the constitutional arguments in any depth, it is noteworthy
+that one of the five requirements under the general trade and commerce
+power under <em>General Motors of Canada Ltd. </em><span style="font-style: normal;">v. </span><em>City National
+Leasing</em><span style="font-style: normal;"> is that the
+legislation be
+concerned with trade as a whole rather than with a particular industry.
+Because the legislation cannot be industry-specific, there is very
+little opportunity for </span><em>the PIPED </em>Act
+to provide for significant exceptions in terms of the organizations to
+which it applies. </p> <p>The
+PIPED Act does not distinguish between small businesses and larger
+chain operations. Instead, it imposes positive privacy obligations on
+all organizations conducting commercial activity in Canada. Despite the
+economic reality which makes it more difficult for an independent
+retailer than a large retail chain store to learn its obligations about
+the PIPED Act, devise a privacy policy, implement suitable privacy
+practices, and develop an infrastructure for responding to customer
+access
+and correction requests or complaints, the PIPED Act appears to impose
+the same duty on each indiscriminately. Instead, every commercial
+organization, regardless of its age or size, is required under the
+PIPED Act to comply with specific positive obligations. Although this
+study focused on companies with privacy statements posted on their
+Internet websites - incidentally, a subset of commercial organizations
+which enjoys relative expertise and sophistication vis-à-vis
+independent small business owners - there is an apparent vacuum of
+privacy knowledge and awareness at the level of small business. If the
+protection of personal information is, as stated, the purpose at which
+the PIPED Act is aimed, additional steps must be taken to ensure the
+PIPED Act is enforced broadly across all organizations which
+purportedly fall under its application. If the PIPED Act were only
+taken seriously by or in respect of relatively large commercial
+organizations, the federal government would likely lose its claim to
+jurisdiction under the general trade and commerce power since it would
+no longer concern trade as a whole. Privacy itself is arguably a matter
+of property and civil rights and thus an issue of provincial
+jurisdiction. It is only by addressing privacy as a general trade issue
+that the federal government has been able to assert jurisdiction over
+privacy protection. The alternative argument, which is not explored in
+this paper, is that the protection of personal information is a matter
+of national concern and thus a valid exercise of Parliament&#39;s
+jurisdiction to legislate for the &quot;peace, order and good government of
+Canada&quot; under s. 91.</p> <p>Until the federalism issues
+have been definitively resolved by the courts, consumers and businesses
+must be familiar with applicable privacy legislation at both the
+federal and provincial level. Of possible interest for future research
+is the manner in which businesses operating in multiple jurisdictions
+have adapted their privacy statements and practices to comply with
+issues of overlapping jurisdiction.</p>
+<p><strong>Methodology</strong></p> <p>In
+order to acquire information about retail organizations&#39; privacy
+practices, I contacted 19 companies by
+e-mail, inviting the privacy manager at each company to participate in
+our privacy study. A comprehensive questionnaire was prepared, which
+was intended to solicit generally objective indicators of companies&#39;
+privacy practices. As part of the invitation process, I selected 19
+retail organizations with internet websites. I then located the e-mail
+address listed for each company&#39;s privacy manager, and submitted a
+standard form invitation letter to the address.</p>
+<p><strong>Companies Contacted</strong></p>
+<p>The
+following 19 companies were contacted with requests to participate in
+our study: Future Shop, RadioShack Canada, Staples, Office Depot,
+Indigo, Hudson Bay Company, Holt Renfrew, eBay, London Drugs, Black&#39;s
+Photography, CanadaFlowers.com, Pizza Pizza, CanadaHelps.org, The
+Shopping Channel, Henry&#39;s, Starbucks, Tim Horton&#39;s, McDonald&#39;s
+Restaurants of Canada, and Subway.</p>
+<p><strong>Responses</strong></p> <p>Of
+the 19 companies contacted, the following 5 companies responded by
+e-mail expressly declining to participate in our study: Indigo, London
+Drugs, Radio Shack, Future Shop, and Black&#39;s Photography. Only one
+company, McDonald&#39;s Restaurants of Canada, agreed to participate in the
+study. The 13 remaining companies did not respond to the invitation in
+any manner.</p> <p><strong>Role of the Privacy
+Statement Within Privacy Policy</strong></p>
+<p>Although
+a focus of this privacy study was to examine retail businesses&#39; privacy
+policies as published on internet websites, it is clear that a website
+privacy statement forms only a part of a company&#39;s overall privacy
+policy. Essentially, a website privacy statement describes a company&#39;s
+general policy with respect to its use, collection and disclosure of
+personal information within the course of its commercial activity. As
+described below, the language of website privacy statements is
+typically vague, leaving a reader with very little information about a
+company&#39;s privacy policy beyond what is already generally provided
+under the PIPED Act. Of far greater use to consumers is a company&#39;s
+detailed implementation manual, which typically describes specific
+examples of when a business practice engages a privacy interest and is
+affected by the company&#39;s obligations under the PIPED Act.</p>
+<p>As
+part of my interview with McDonald&#39;s, I had the benefit of reviewing an
+implementation handbook prepared for internal use by McDonald&#39;s
+Restaurants of Canada Ltd. The handbook contains an itemized
+explanation of the company&#39;s privacy principles (mirroring those
+recognized in the PIPED Act) and a description of how each privacy
+principle is reflected in the day-to-day operations. Also included are
+hypothetical fact patterns describing situations in which privacy
+obligations may operate and how a store manager or employee might
+respond to the situation within the spirit of the company&#39;s privacy
+policy. </p> <p>The level of detail included in the
+implementation handbook is certainly in contrast to the level of
+abstraction used generally in published privacy statements. By making
+this observation I do not intend to discourage the use of broad privacy
+statements. Indeed, privacy statements serve a useful purpose insofar
+as they generally inform readers about a company&#39;s macro-level
+commitment to privacy protection and compliance with the PIPED Act.
+Instead I suggest that companies be encouraged to publish or make
+available handbooks or implementation guides similar in scope to the
+operational manuals published by government with respect to
+administrative procedures for access to information legislation.<a name="_ftnref80" href="#_ftn80">[80]</a></p>
+<p>The
+PIPED Act requires that &quot;organizations shall be open about their
+policies and practices with respect to the management of personal
+information. Individuals shall be able to acquire information about an
+organization&#39;s policies and practices without unreasonable effort. This
+information shall be made available in a form that is generally
+understandable.&quot;<a name="_ftnref81" href="#_ftn81">[81]</a>
+The Act further provides that the information made available shall
+include &quot;a copy of any brochures or other information that explain the
+organization&#39;s policies, standards or codes.&quot;<a name="_ftnref82" href="#_ftn82">[82]</a></p> <p>Relying
+on this provision, an individual may request a company to provide a
+detailed implementation guide setting out the recommended practices or
+policies with respect to specific examples of personal information use
+by the particular company. However, companies would be understandably
+reluctant to provide this information for two main reasons. </p>
+<p>First,
+the preparation of a detailed implementation guide represents a
+significant investment by the company of its time and resources.
+Sharing this information with the public may be seen to deprive the
+company of an acquired competitive advantage over another company which
+has not made the same investment. </p> <p>Second, the
+publication of specific practice recommendations may be seen to expose
+a company to increased liability arising out of legal obligations
+created not by the PIPED Act but by the representations in the
+publication itself. Adopting this rationale, a company would be well
+advised to limit its publicly available policy statements so as to
+minimize the creation of any obligations not already imposed by the
+PIPED Act. While this concern would appreciably explain the typically
+vague language used in published privacy statements, it does little to
+assuage individuals&#39; concerns about what specific steps a company is
+taking to protect individual privacy. If the privacy policy equates to
+confirming minimal compliance with the PIPED Act, there is arguably
+less benefit to requiring each company to publish a broadly worded
+privacy statement since the reader can otherwise assume the company is
+aware of and intends to comply with its general obligations under the
+PIPED Act.</p> <p><strong>Specific Privacy
+Considerations in the Retail Sector</strong></p>
+<p>In
+this part, the means by which retail businesses typically collect and
+use personal information will be reviewed. Where these means are used,
+a company should specifically address them in a publicly available
+privacy policy. The alternative to specifically referring to each is to
+leave the consumer uncertain as to whether the company has recognized
+the information collection as one which engages a privacy interest.
+</p> <p><strong>Customer Feedback/Complaint
+Forms</strong></p> <p>For
+some retail organizations in which the exchange of personal
+information is not necessary to complete a transaction, the collection
+and use of customer feedback forms may form a significant proportion of
+a company&#39;s personal information inventory. Customer feedback forms
+typically invite consumers
+to rate their level of satisfaction with their shopping experience in a
+number of specific areas. Where the consumer requests that the company
+respond to the feedback, the consumer is invited to provide his or her
+contact information. In such cases, the exchange of personal
+information is clearly voluntary as the consumer&#39;s knowledge and
+consent of the collection and use is apparent when the feedback form is
+completed. A lingering privacy concern, however, exists with respect to
+the purposes for which the personal information is subsequently used
+and disclosed. </p> <p>While
+all privacy statements examined during this study contained language
+restricting the use or disclosure of personal information for purposes
+other than those for which the information was collected, the typical
+absence of specific examples mentioned in privacy statements leaves the
+reader to assume that the company and the reader share identical views
+on which exchanges of personal information are governed by the privacy
+policy or applicable privacy legislation. </p>
+<p>McDonald&#39;s
+specifically identifies the use of customer feedback forms and
+addresses the various privacy interests engaged by their use. For
+example, the McDonald&#39;s privacy principles speak to the use,
+disclosure, accuracy and security of personal information provided in
+customer feedback forums. Other companies&#39; privacy policies, including
+companies known to use customer feedback forms, do not specifically
+address how the personal information contained in these forms will be
+used or disclosed by the collecting company. </p> <p>To the
+extent
+that a company actively invites consumers to provide feedback on the
+company&#39;s performance, the company&#39;s privacy policy should specifically
+address the limited purpose for which the information contained on the
+customer feedback form will be used by the company, as well as how the
+information will be stored, disclosed, and disposed of when it is no
+longer needed.<a name="_Toc103387389" /></p>
+<a name="_Toc103387389"> </a><p><a name="_Toc103387389"><strong>Returned
+Merchandise</strong></a></p>
+<a name="_Toc103387389"> </a><p><a name="_Toc103387389">Retail
+businesses should review in-store return policies in light of privacy
+legislation. When a customer attempts to return merchandise to obtain a
+refund or exchange in accordance with a store&#39;s return policy, it is
+still the case that the customer is asked for identifying personal
+information as part of the return process. A customer&#39;s contact
+information is reasonably related to the return process since the
+company may need to contact the customer in case the returned product
+has suffered undisclosed damage disqualifying the product for a refund
+
+under the store&#39;s return policy. Personal information would not be
+necessary for this purpose, however, if the clerk processing the return
+performs an adequate inspection of the returned merchandise in the
+presence of the customer.</a></p>
+<a name="_Toc103387389"> </a><p><a name="_Toc103387389">Where a
+company routinely requests a customer&#39;s contact or other personal
+information as part of its return policy, what is the effect of a
+customer&#39;s refusal to consent to the exchange of this personal
+information? Since &quot;an organization shall not, as a condition of the
+supply of a product or service, require an individual to consent to the
+collection, use, or disclosure of information beyond that required to
+fulfill the explicitly specified, and legitimate
+purposes&quot;,</a><a name="_ftnref83" href="#_ftn83">[83]</a>
+it is doubtful an organization can refuse to provide a refund or
+exchange where a customer reasonably withholds consent to providing the
+requested personal information. If the store&#39;s purpose is indeed to
+retain contact information in case there is a latent problem with the
+returned merchandise, this purpose should be made expressly clear to
+the customer at the time of the return. Moreover, the retention of the
+customer&#39;s contact information, along with any additional information
+including the reasons provided by the customer for returning the
+product, should only be kept by the company for a reasonably brief
+period of time sufficient to discover any undisclosed problems with due
+diligence. This recommendation is not intended to create a limitation
+period for nefarious individuals attempting to obtain a refund for
+illegitimate purpose, but rather to reflect the reality that retail
+businesses ordinarily do not collect or retain identifying information
+about an individual when he or she
+<em>purchases</em><span style="font-style: normal;">
+a product and therefore should not be granted a broad licence to
+collect such information when an individual
+</span><em>returns</em><span style="font-style: normal;"> a product.<a name="_Toc103387390" /></span></p>
+<a name="_Toc103387390"> </a><p><a name="_Toc103387390"><strong>Contests and Business Card
+Draws</strong></a></p>
+<a name="_Toc103387390"> </a><p><a name="_Toc103387390">A common
+marketing technique used in retail organizations is to offer customers
+a contest awarding free products. Customers enter by providing a
+business card or completing an entry form requesting contact
+information. The ostensible purpose for collecting the personal
+information as part of such contests, and accordingly the grounds on
+which consent may be implied under principle 4.3.7, is to allow the
+collecting organization to contact the winner to make prize
+arrangements. Once the information has been collected, however, the
+collecting organization has obtained contact information from its
+clientele. </a></p>
+<a name="_Toc103387390"> </a><p><a name="_Toc103387390">Determining
+the purposes for which the organization may legitimately use this
+information, assuming an express statement of purpose was not included
+on the entry form, depends on what a reasonable person would consider
+appropriate at the time of collection. If a company intends to
+subsequently use the collected information for marketing purposes, the
+company should expressly state such purpose at the time of collection.
+</a></p>
+<a name="_Toc103387390"> </a><p><a name="_Toc103387390">In the
+context of company websites, consumers are often offered opportunities
+to enter contests which require the collection of personal
+information.</a><a name="_Toc103387390"> In addition
+to the entrant&#39;s contact information, the entry form may request
+additional information concerning the entrant&#39;s shopping preferences,
+income and education levels, and other information not necessary to
+administer the contest itself. </a></p>
+<a name="_Toc103387390"> </a><p><a name="_Toc103387390">An example of an effective privacy statement
+with respect to contests and surveys is found in Future Shop&#39;s privacy
+policy:</a></p>
+<a name="_Toc103387390"> </a><p><span style="font-size: 10pt;"><a name="_Toc103387390"><strong>Participate in a Contest,
+Promotion, or Survey</strong></a></span></p>
+<a name="_Toc103387390"> </a><p><span style="font-size: 10pt;"><a name="_Toc103387390">From
+time to time, we may run contests, promotions, or surveys. If you
+participate, you may be asked for contact information as well as
+additional optional survey information (for example, product
+preferences). Information from contest entries will be used to contact
+you if you win. We may also summarize survey information in a manner
+that no longer identifies the contest entrants for analysis, but will
+not share personal information from entries. All contests are subject
+to rules that will be available with each particular
+contest.</a><a name="_ftnref84" href="#_ftn84">[84]</a></span></p>
+<p><a name="_Toc103387391"><strong>Rebate
+Forms</strong></a></p> <p>Occasionally,
+a retail store selling a product which includes a manufacturer&#39;s rebate
+will offer to process and submit the rebate forms necessary to receive
+the rebate amount. In such cases, the retail store will necessarily
+collect personal information from the consumer including a mailing
+address and other details concerning the purchase. In such cases, the
+retail store is obliged not to use or disclose the collected personal
+information for any purpose other than for processing the customer&#39;s
+rebate claim. Since the information is no longer necessary for this
+purpose once the claim has been submitted to the manufacturer offering
+the rebate, the store&#39;s policy should provide for the timely and secure
+destruction of the rebate information. </p> <p>An example
+of a privacy policy statement with respect to rebate programs is found
+on the Future Shop website: </p> <p><span style="font-size: 10pt;"><strong>Rebates</strong></span></p>
+<p><span style="font-size: 10pt;">Many
+of the products you purchase through Future Shop are offered with
+rebates. To claim your rebate, you will usually be asked to provide
+your name, address, e-mail address and proof of purchase. You may also
+be asked by either Future Shop or the vendor to provide your consent to
+be added to promotional mailings and newsletters. Your consent is not a
+condition of receiving the rebate.<a name="_ftnref85" href="#_ftn85">[85]</a></span></p>
+<p><a name="_Toc103387392"><strong>Warranty
+Programs</strong></a></p> <p>Similar
+to rebate programs, some retail businesses offer customers a service
+which facilitates product registration for warranty program purposes.
+While the standard recommendation with respect to limited retention of
+personal information by the retail business applies with equal force as
+it does to a company&#39;s handling of rebate information, there is a
+particular concern where businesses offer a supplementary or extended
+warranty program beyond that provided by the product
+manufacturer.</p> <p>For
+an additional cost, some retail businesses particularly in the home
+electronics sub-sector will offer consumers an opportunity to
+supplement a manufacturer&#39;s warranty with a policy that provides
+technical support and/or damage protection. For example, Future Shop
+offers a &quot;Product Service Plan&quot; on virtually all products sold through
+its retail outlets or online store.<a name="_ftnref86" href="#_ftn86">[86]</a></p> <p>Where
+a retail business administers its own extended warranty program,
+information regarding coverage is typically connected to the individual
+purchasing the product. Future Shop requests the name, address and
+telephone number of the individual registering the warranty coverage.
+When a customer attends a retail outlet to request warranty service
+under the Product Service Plan, the customer is asked either for a
+store receipt or for the individual&#39;s phone number to facilitate a
+computer search of registered warranty information. Prior to the
+implementation of PIPED Act within the provincially-regulated retail
+sector on January 1, 2004, Future Shop routinely collected contact
+information from customers during every purchase. As part of Future
+Shop&#39;s privacy compliance program, customers were thereafter only asked
+for personal information when purchasing the Product Service Plan
+extended warranty coverage. The information recorded includes the
+serial number of the specific product to which the extended warranty
+coverage applies.</p> <p>Given the uniqueness of the serial
+number,
+which prevents individuals from obtaining extended warranty service for
+additional products, it is arguably unnecessary to additionally collect
+the individual&#39;s personal information to facilitate the computer search
+of warranty records. Instead, the company could conduct a search by
+serial number of the product submitted for warranty coverage, thus
+enabling the consumer to obtain warranty service while retaining
+relative anonymity.</p> <p>Interestingly, the Future Shop
+privacy
+policy makes little mention of its use of personal information in
+connection with its warranty program. As part of its privacy statement
+in respect of in-store purchases, Future Shop describes the following
+policy:</p> <p><span style="font-size: 10pt;"><strong>In-Store
+Purchases</strong></span></p> <p><span style="font-size: 10pt;">When
+you purchase a Future Shop product or service, you may need to provide
+us with contact and payment information (such as credit card
+information) so that we can process your request. <u>Examples
+where we need contact information include</u> delivery services,
+<u>product servicing</u>, in-home installations,
+<u>warranty coverage</u>,
+and rebate requests. If we collect this information, we will also ask
+for your consent to use this information to send you promotional
+information on products and services.<a name="_ftnref87" href="#_ftn87">[87]</a> </span></p> <p>In
+the privacy statement provided above, Future Shop expressly identifies
+warranty coverage as a service mandating an exchange of customers&#39;
+personal information. There is no mention of the personal information
+being used later to identify and match the product to which the
+extended warranty applies. </p> <p>The statement is also
+unclear
+with respect to why contact information is necessary to provide
+warranty coverage. It may be necessary only to inform the individual of
+future amendments to the warranty agreement, but the lack of
+specificity as to purpose deprives the individual of the benefit of
+knowing based on the privacy policy alone whether withholding consent
+precludes the purchase of extended warranty coverage. The closing
+sentence, which notifies consumers that personal information
+necessarily collected for the preceding purposes may later be used with
+consent to send promotional information, calls into question the extent
+to which the company has actively minimized its information collection
+practices.</p>
+<p><strong>Conclusion</strong></p>
+<p>Privacy statements
+appear with increasing regularity on websites of companies in the
+retail sector. As with their counterparts in federally regulated
+sectors, the privacy statements produced by retail organizations
+typically describe privacy practices in general, abstract terms. This
+paper addresses some of the privacy issues specifically relevant to the
+retail sector as well as provides recommendations for how retail
+businesses might expand their privacy statements to reflect
+industry-specific privacy concerns. Striking the right balance between
+specificity and flexibility may continue to reflect a tension between
+openly disclosing a company&#39;s detailed privacy practices and
+maintaining the maneuverability provided by non-specific privacy
+statements affirming the general principles recognized by the PIPED
+Act. If the business community can overcome concerns with respect to
+the competitive advantage lost or the liability increased by publishing
+detailed privacy manuals, consumers will benefit by having a meaningful
+basis on which to assess companies&#39; privacy practices, hold them
+accountable for non-compliance, and ultimately guide their purchasing
+decisions. Until then, consumers may need to rely on their own
+interpretations of PIPED Act and the goodwill of retailers to comply
+with the spirit of the legislation and the similarly non-specific
+finding reports published by the Privacy Commissioner.</p>
+</div><br />
+<div> <p><a name="_ftn59" href="#_ftnref59">[59]</a>
+Established pursuant to Art. 29 of Directive 95/46/EC. Its tasks are
+described in Art. 30 of Directive 95/46/EC and Art. 15 of Directive
+2002/58/EC. See <a href="http://www.europa.eu.int/comm/privacy">www.europa.eu.int/comm/privacy</a>
+</p>
+</div>
+<div> <p><a name="_ftn60" href="#_ftnref60">[60]</a>
+Opinion 9/2004 of the Working Party on the Protection of Individuals
+with Regard to the Processing of Personal Data set up by Directive
+95/46/EC of the European Parliament and of the Council of 24 October
+1995&quot;, WP 100 of the Working Party, <em>available
+at</em><span style="font-style: normal;"> <a href="http://europa.eu.int/comm/internal_market/privacy/docs/wpdocs/2004/wp100_en.pdf">http://europa.eu.int/comm/internal_market/privacy/docs/wpdocs/2004/wp100_en.pdf</a>
+</span></p>
+</div>
+<div> <p><a name="_ftn61" href="#_ftnref61">[61]</a>
+Within the meaning of Art. 25(6) of Directive 95/46/EC. Shaffer
+suggests that collective action on the part of the EU countries has
+provided significant leverage in influencing U.S. data protection law:
+see G. Shaffer, &quot;The Power of EU Collective Action: The Impact of EU
+Data Privacy Regulation on U.S. Business Practice.&quot;<em>European
+Law Journal</em>&#160;5&#160;(4),&#160;419-437
+(1999).</p>
+</div>
+<div> <p><a name="_ftn62" href="#_ftnref62">[62]</a> PIPED Act, Sch. 1, cl.
+4.8..</p>
+</div>
+<div> <p><a name="_ftn63" href="#_ftnref63">[63]</a> Opinion 9/2004
+<em>supra</em><span style="font-style: normal;"> p.
+6. </span></p>
+</div>
+<div> <p><a name="_ftn64" href="#_ftnref64">[64]</a> <em>Supra.
+</em></p>
+</div>
+<div> <p><a name="_ftn65" href="#_ftnref65">[65]</a> <em>Supra </em><span style="font-style: normal;">at p. 8</span></p>
+</div>
+<div> <p><a name="_ftn66" href="#_ftnref66">[66]</a> <em>Supra </em><span style="font-style: normal;">at p. 8.</span></p>
+</div>
+<div> <p><a name="_ftn67" href="#_ftnref67">[67]</a> <em>Supra </em><span style="font-style: normal;">at p. 9. </span></p>
+</div>
+<div> <p><a name="_ftn68" href="#_ftnref68">[68]</a> Canadian Bankers Association,
+&quot;Consumer Information - Consumer Protections&quot; a<em>vailable at
+</em><span style="font-style: normal;"><a href="http://www.cba.ca/en/ViewDocument.asp?fl=3&amp;sl=65&amp;tl=133&amp;docid=294">http://www.cba.ca/en/ViewDocument.asp?fl=3&amp;sl=65&amp;tl=133&amp;docid=294</a>
+(2005).</span></p>
+</div>
+<div> <p><a name="_ftn69" href="#_ftnref69">[69]</a> Canadian Bankers Association- Our
+Industry - Banks in Canada, retrieved March 21, 2005 from <a href="http://www.cba.ca/en/section.asp?fl=2&amp;sl=204&amp;tl=&amp;docid">http://www.cba.ca/en/section.asp?fl=2&amp;sl=204&amp;tl=&amp;docid</a>=
+(2005).</p>
+</div>
+<div> <p><a name="_ftn70" href="#_ftnref70">[70]</a> John Lawford, &quot;Consumer Privacy
+under PIPEDA: How are we doing? November 2004 (Public Interest Advocacy
+Centre: Ontario)<em> available at</em><span style="font-style: normal;"> <a href="http://www.piac.ca/PIPEDAReviewFinal.pdf">http://www.piac.ca/PIPEDAReviewFinal.pdf</a>.</span></p>
+</div>
+<div> <p><a name="_ftn71" href="#_ftnref71">[71]</a> Bank accused of inappropriately
+demanding birthdates from account applicants see: <a href="http://www.privcom.gc.ca/cf-dc/cf-dc_020426_e.asp">http://www.privcom.gc.ca/cf-dc/cf-dc_020426_e.asp</a>
+</p>
+</div>
+<div> <p><a name="_ftn72" href="#_ftnref72">[72]</a> Customer objects to bank using
+Social Insurance Number to activate credit cards see:<a href="http://www.privcom.gc.ca/cf-dc/cf-dc_021219_8_e.asp">http://www.privcom.gc.ca/cf-dc/cf-dc_021219_8_e.asp</a>
+</p>
+</div>
+<div> <p><a name="_ftn73" href="#_ftnref73">[73]</a> <span style="font-size: 10pt;">For
+example, the paragraph on SIN usage in CIBC&#39;s Privacy Policy seems to
+suggest that it was added as a result of Case Summary #105
+<em>supra</em></span><span style="font-size: 10pt;">.</span></p>
+</div>
+<div> <p><a name="_ftn74" href="#_ftnref74">[74]</a> A discussion of this matter is
+beyond the scope of this paper and a matter for further
+research.</p>
+</div>
+<div> <p><a name="_ftn75" href="#_ftnref75">[75]</a> Scotiabank Privacy Code,
+<em>available at <a href="http://www.scotiabank.com/cda/content/0,1608,CID8311_LIDen,00.html">http://www.scotiabank.com/cda/content/0,1608,CID8311_LIDen,00.html</a>
+</em></p>
+</div>
+<div> <p><a name="_ftn76" href="#_ftnref76">[76]</a> CIBC Privacy Policy,
+<em>available at
+http://www.cibc.com/ca/legal/privacy-policy.html</em></p>
+</div>
+<div> <p><a name="_ftn77" href="#_ftnref77">[77]</a> <em>Constitution Act,
+1867</em><span style="font-style: normal;"> (U.K.), 30
+&amp; 31 Vict., c. 3, reprinted in R.S.C. 1985, App. II, No.
+5.</span></p>
+</div>
+<div> <p><a name="_ftn78" href="#_ftnref78">[78]</a> Government of Canada, Debates of
+the House of Commons (Hansard), No. 9 (22 October 1999) at 1100, online
+at <a href="http://www.parl.gc.ca/36/2/parlbus/chambus/house/debates/">http://www.parl.gc.ca/36/2/parlbus/chambus/house/debates/</a>
+</p>
+</div>
+<div> <p><a name="_ftn79" href="#_ftnref79">[79]</a> <em>General Motors of Canada
+Ltd. </em><span style="font-style: normal;">v.
+</span><em>City National Leasing</em><span style="font-style: normal;">, [1989] 1 S.C.R. 641 at
+663.</span></p>
+</div>
+<div> <p><a name="_ftn80" href="#_ftnref80">[80]</a>
+See, for example, &quot;Guidelines for the Routine Release of Records
+Information&quot;, October 1997:
+http://www.mser.gov.bc.ca/privacyaccess/main/rr_guide.htm</p>
+</div>
+<div> <p><a name="_ftn81" href="#_ftnref81">[81]</a> Principle 4.8.1.</p>
+</div>
+<div> <p><a name="_ftn82" href="#_ftnref82">[82]</a> Principle 4.8.2(d).</p>
+</div>
+<div> <p><a name="_ftn83" href="#_ftnref83">[83]</a> Principle 4.3.3, PIPED
+Act.</p>
+</div>
+<div> <p><a name="_ftn84" href="#_ftnref84">[84]</a>
+http://www.futureshop.ca/informationcentre/en/privacypolicy.asp</p>
+</div>
+<div> <p><a name="_ftn85" href="#_ftnref85">[85]</a> <a href="http://www.futureshop.ca/informationcentre/en/privacypolicy.asp">http://www.futureshop.ca/informationcentre/en/privacypolicy.asp</a>
+</p>
+</div>
+<div> <p><a name="_ftn86" href="#_ftnref86">[86]</a> <a href="http://www.futureshop.ca/informationcentre/en/psp_faq.asp">http://www.futureshop.ca/informationcentre/en/psp_faq.asp</a>
+</p>
+</div>
+<div> <p><a name="_ftn87" href="#_ftnref87">[87]</a> <a href="http://www.futureshop.ca/informationcentre/en/privacypolicy.asp">http://www.futureshop.ca/informationcentre/en/privacypolicy.asp</a>
+[emphasis added].</p>
+</div><br /><div class="pagenavbar"><div><a href="http://pipedaproject.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=66&amp;Itemid=80&amp;limit=1&amp;limitstart=5">&lt;&lt; Prev</a> - Next</div></div><br />			</td>
+		</tr>
+					<tr>
+				<td colspan="2" align="left" class="modifydate">
+					Last Updated ( Tuesday, 24 May 2005 )
+				</td>
+			</tr>
+					</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<div class="back_button">
+				<a href='javascript:history.go(-1)'>
+					[ Back ]</a>
+			</div>
+								</td>
+				</tr>
+				</table>
+			</td>
+			<td class="mainpage-bkg">
+			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
+			</td>
+			<td width="50" valign="top">
+				<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="padding-right:5px;">
+
+										</td>
+				</tr>
+				</table>
+			<br />
+			</td>
+		</tr>
+		</table>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="51%" height="30" bgcolor="#999999">&nbsp;</td>
+			<td width="49%" align="center" valign="middle" bgcolor="#999999">
+			<div align="center">
+	&copy; 2013 Privacy Project</div>
+
+<div align="center">
+	<a href="http://www.joomla.org">Joomla!</a> is Free Software released under the GNU/GPL License.</div>			</td>
+		</tr>
+		</table>
+	</td>
+	<td width="6" bgcolor="#FFFFFF">
+	<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
+	</td>
+</tr>
+</table>
+</body>
+</html><!-- 1373397457 -->
