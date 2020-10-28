@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Privacy Project - Home</title>
+<title>Privacy Project - Implementing PIPEDA: A review of internet privacy statements and on-line practices</title>
 <meta name="description" content="Evaluating Privacy Policies" />
 <meta name="keywords" content="privacy, PIPEDA" />
 <meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2006 Open Source Matters. All rights reserved." />
@@ -121,12 +121,10 @@ A Review of Internet Privacy Statements and Online Practices
 				<tr>
 					<td class="mainpage">
 
-				<table class="blog" cellpadding="0" cellspacing="0"><tr><td valign="top"><div>				<table class="contentpaneopen">
+								<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=1__Itemid=1" class="contentpagetitle">
-						Implementing PIPEDA: A review of internet privacy statements and on-line practices</a>
-									</td>
+					Implementing PIPEDA: A review of internet privacy statements and on-line practices									</td>
 							</tr>
 			</table>
 			
@@ -189,13 +187,13 @@ Privacy Commissioner<br />
 
 <br />
 <br />
-<br />			</td>
+<br />			</td>
 		</tr>
 				</table>
 
 		<span class="article_seperator">&nbsp;</span>
 
-		</div></td></tr></table>			<div class="back_button">
+					<div class="back_button">
 				<a href='javascript:history.go(-1)'>
 					[ Back ]</a>
 			</div>
@@ -218,7 +216,7 @@ Privacy Commissioner<br />
 			</tr>
 					<tr>
 			<td>
-				We have 1 guest online			</td>
+				We have 2 guests online			</td>
 		</tr>
 		</table>
 							</td>
@@ -246,4 +244,4 @@ Privacy Commissioner<br />
 </tr>
 </table>
 </body>
-</html><!-- 1373397448 -->
+</html><!-- 1373397449 -->
