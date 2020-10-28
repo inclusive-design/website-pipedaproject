@@ -7,22 +7,22 @@
 <meta name="keywords" content="privacy, PIPEDA" />
 <meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2006 Open Source Matters. All rights reserved." />
 <meta name="robots" content="index, follow" />
-	<link rel="shortcut icon" href="http://pipedaproject.idrc.ocadu.ca/images/favicon.ico" />
-	<link rel="shortcut icon" href="http://pipedaproject.idrc.ocadu.ca/images/favicon.ico" />
-<link rel="stylesheet" type="text/css" href="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/css/template_css.css" />
+	<link rel="shortcut icon" href="/images/favicon.ico" />
+	<link rel="shortcut icon" href="/images/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/templates/JavaBean/css/template_css.css" />
 </head>
 <body>
 
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="ffffff">
 <tr>
 	<td width="6" bgcolor="#FFFFFF">
-	<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer" />
+	<img src="/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer" />
 	</td>
 	<td valign="top" class="greybg" >
 		<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="ffffff">
 		<tr>
 			<td bgcolor="#FFFFFF">
-			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="6" alt="spacer" /></td>
+			<img src="/templates/JavaBean/images/pixel.png" width="1" height="6" alt="spacer" /></td>
 
 		</tr>
 		<tr>
@@ -42,7 +42,7 @@ A Review of Internet Privacy Statements and Online Practices
 		</tr>
 		<tr>
 			<td height="10">
-			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="10" alt="spacer" />
+			<img src="/templates/JavaBean/images/pixel.png" width="1" height="10" alt="spacer" />
 			</td>
 		</tr>
 		<tr>
@@ -62,7 +62,7 @@ A Review of Internet Privacy Statements and Online Practices
 				</td>
         <td align="right">
 
-			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/image_01.jpg" width="600" height="50" alt="header" align="right"/>
+			<img src="/templates/JavaBean/images/image_01.jpg" width="600" height="50" alt="header" align="right"/>
 			</td>
 		</tr>
 		</table>
@@ -70,7 +70,7 @@ A Review of Internet Privacy Statements and Online Practices
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 		<tr>
 			<td>
-			<ul id="mainlevel-nav"><li><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_weblinks__catid=75__Itemid=4" class="mainlevel-nav" >Links</a></li><li><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_contact__Itemid=3" class="mainlevel-nav" >Contact Us</a></li><li><a href="http://pipedaproject.idrc.ocadu.ca/index.php__" class="mainlevel-nav" >Home</a></li></ul>			</td>
+			<ul id="mainlevel-nav"><li><a href="/index.php__option=com_weblinks__catid=75__Itemid=4" class="mainlevel-nav" >Links</a></li><li><a href="/index.php__option=com_contact__Itemid=3" class="mainlevel-nav" >Contact Us</a></li><li><a href="/index.php__" class="mainlevel-nav" >Home</a></li></ul>			</td>
 		</tr>
 		</table>
 		
@@ -86,20 +86,20 @@ A Review of Internet Privacy Statements and Online Practices
 			<td>
 				
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_frontpage__Itemid=1" class="mainlevel" >Home</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=19__Itemid=48" class="mainlevel" >About the project</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_contact__Itemid=3" class="mainlevel" >Contact Us</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_search__Itemid=27" class="mainlevel" >Search</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=55__Itemid=70" class="mainlevel" >Conference</a>
+<tr align="left"><td><a href="/index.php__option=com_frontpage__Itemid=1" class="mainlevel" >Home</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_content__task=view__id=19__Itemid=48" class="mainlevel" >About the project</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_contact__Itemid=3" class="mainlevel" >Contact Us</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_search__Itemid=27" class="mainlevel" >Search</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_content__task=view__id=55__Itemid=70" class="mainlevel" >Conference</a>
 
-<div style="padding-left: 4px"><img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/indent1.png" alt="" /><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=54__Itemid=71" class="sublevel" id="active_menu">    Agenda/Speakers</a></div>
-<div style="padding-left: 4px"><img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/indent1.png" alt="" /><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=56__Itemid=73" class="sublevel" > Location __ Map</a></div>
-<div style="padding-left: 4px"><img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/indent1.png" alt="" /><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=65__Itemid=77" class="sublevel" > Recorded Webcast</a></div>
-<div style="padding-left: 4px"><img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/indent1.png" alt="" /><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_facileforms__Itemid=78" class="sublevel" > Evaluation Form</a></div>
+<div style="padding-left: 4px"><img src="/templates/JavaBean/images/indent1.png" alt="" /><a href="/index.php__option=com_content__task=view__id=54__Itemid=71" class="sublevel" id="active_menu">    Agenda/Speakers</a></div>
+<div style="padding-left: 4px"><img src="/templates/JavaBean/images/indent1.png" alt="" /><a href="/index.php__option=com_content__task=view__id=56__Itemid=73" class="sublevel" > Location __ Map</a></div>
+<div style="padding-left: 4px"><img src="/templates/JavaBean/images/indent1.png" alt="" /><a href="/index.php__option=com_content__task=view__id=65__Itemid=77" class="sublevel" > Recorded Webcast</a></div>
+<div style="padding-left: 4px"><img src="/templates/JavaBean/images/indent1.png" alt="" /><a href="/index.php__option=com_facileforms__Itemid=78" class="sublevel" > Evaluation Form</a></div>
 </td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_simpleboard__Itemid=61" class="mainlevel" >Public Forum</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=60__Itemid=76" class="mainlevel" >Supporting Organizations</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=66__Itemid=80" class="mainlevel" >Final Report</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_simpleboard__Itemid=61" class="mainlevel" >Public Forum</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_content__task=view__id=60__Itemid=76" class="mainlevel" >Supporting Organizations</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_content__task=view__id=66__Itemid=80" class="mainlevel" >Final Report</a></td></tr>
 </table>			</td>
 		</tr>
 		</table>
@@ -108,7 +108,7 @@ A Review of Internet Privacy Statements and Online Practices
 			<td>
 				
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/administrator/" class="mainlevel" >Administrator</a></td></tr>
+<tr align="left"><td><a href="/administrator/" class="mainlevel" >Administrator</a></td></tr>
 </table>			</td>
 		</tr>
 		</table>
@@ -119,7 +119,7 @@ A Review of Internet Privacy Statements and Online Practices
 				<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
 				<tr>
 					<td class="pathway">
-					<span class="pathway"><a href="http://pipedaproject.idrc.ocadu.ca/index.php__" class="pathway">Home</a> <img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/arrow.png" border="0" alt="arrow" /> <a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=55__Itemid=70" class="pathway">Conference</a> <img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/arrow.png" border="0" alt="arrow" />       Agenda/Speakers </span>					</td>
+					<span class="pathway"><a href="/index.php__" class="pathway">Home</a> <img src="/templates/JavaBean/images/arrow.png" border="0" alt="arrow" /> <a href="/index.php__option=com_content__task=view__id=55__Itemid=70" class="pathway">Conference</a> <img src="/templates/JavaBean/images/arrow.png" border="0" alt="arrow" />       Agenda/Speakers </span>					</td>
 				</tr>
 				</table>
 			<br />
@@ -132,16 +132,16 @@ A Review of Internet Privacy Statements and Online Practices
 								<td class="contentheading" width="100%">
 					Matthew Englander									</td>
 							<td align="right" width="100%" class="buttonheading">
-				<a href="http://pipedaproject.idrc.ocadu.ca/index2.phpoption=com_content__do_pdf=1__id=62" target="_blank" onclick="window.open('http://pipedaproject.idrc.ocadu.ca/index2.phpoption=com_content__do_pdf=1__id=62','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" title="PDF">
-					<img src="http://pipedaproject.idrc.ocadu.ca/images/M_images/pdf_button.png"  alt="PDF" name="PDF" align="middle" border="0" /></a>
+				<a href="/index2.phpoption=com_content__do_pdf=1__id=62" target="_blank" onclick="window.open('/index2.phpoption=com_content__do_pdf=1__id=62','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" title="PDF">
+					<img src="/images/M_images/pdf_button.png"  alt="PDF" name="PDF" align="middle" border="0" /></a>
 			</td>
 							<td align="right" width="100%" class="buttonheading">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index2.phpoption=com_content__task=view__id=62__pop=1__page=0__Itemid=71" target="_blank" onclick="window.open('http://pipedaproject.idrc.ocadu.ca/index2.phpoption=com_content__task=view__id=62__pop=1__page=0__Itemid=71','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" title="Print">
-						<img src="http://pipedaproject.idrc.ocadu.ca/images/M_images/printButton.png"  alt="Print" name="Print" align="middle" border="0" /></a>
+					<a href="/index2.phpoption=com_content__task=view__id=62__pop=1__page=0__Itemid=71" target="_blank" onclick="window.open('/index2.phpoption=com_content__task=view__id=62__pop=1__page=0__Itemid=71','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" title="Print">
+						<img src="/images/M_images/printButton.png"  alt="Print" name="Print" align="middle" border="0" /></a>
 				</td>
 							<td align="right" width="100%" class="buttonheading">
-				<a href="http://pipedaproject.idrc.ocadu.ca/index2.phpoption=com_content__task=emailform__id=62__itemid=71" target="_blank" onclick="window.open('http://pipedaproject.idrc.ocadu.ca/index2.phpoption=com_content__task=emailform__id=62__itemid=71','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=400,height=250,directories=no,location=no'); return false;" title="E-mail">
-					<img src="http://pipedaproject.idrc.ocadu.ca/images/M_images/emailButton.png"  alt="E-mail" name="E-mail" align="middle" border="0" /></a>
+				<a href="/index2.phpoption=com_content__task=emailform__id=62__itemid=71" target="_blank" onclick="window.open('/index2.phpoption=com_content__task=emailform__id=62__itemid=71','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=400,height=250,directories=no,location=no'); return false;" title="E-mail">
+					<img src="/images/M_images/emailButton.png"  alt="E-mail" name="E-mail" align="middle" border="0" /></a>
 			</td>
 						</tr>
 			</table>
@@ -167,14 +167,14 @@ For more information, go to: <a href="http://www.mathew-englander.ca/" target="_
 					<table align="center" style="margin-top: 25px;">
 			<tr>
 									<th class="pagenav_prev">
-						<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=63__Itemid=71">
+						<a href="/index.php__option=com_content__task=view__id=63__Itemid=71">
 							&lt; Prev</a>
 					</th>
 										<td width="50">&nbsp;
 
 					</td>
 										<th class="pagenav_next">
-						<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=61__Itemid=71">
+						<a href="/index.php__option=com_content__task=view__id=61__Itemid=71">
 							Next &gt;</a>
 					</th>
 								</tr>
@@ -188,7 +188,7 @@ For more information, go to: <a href="http://www.mathew-englander.ca/" target="_
 				</table>
 			</td>
 			<td class="mainpage-bkg">
-			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
+			<img src="/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
 			</td>
 			<td width="50" valign="top">
 				<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -215,7 +215,7 @@ For more information, go to: <a href="http://www.mathew-englander.ca/" target="_
 		</table>
 	</td>
 	<td width="6" bgcolor="#FFFFFF">
-	<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
+	<img src="/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
 	</td>
 </tr>
 </table>

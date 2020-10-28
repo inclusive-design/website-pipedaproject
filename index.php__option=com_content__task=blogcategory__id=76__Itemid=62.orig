@@ -7,22 +7,22 @@
 <meta name="keywords" content="privacy, PIPEDA" />
 <meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2006 Open Source Matters. All rights reserved." />
 <meta name="robots" content="index, follow" />
-	<link rel="shortcut icon" href="http://pipedaproject.idrc.ocadu.ca/images/favicon.ico" />
-	<link rel="shortcut icon" href="http://pipedaproject.idrc.ocadu.ca/images/favicon.ico" />
-<link rel="stylesheet" type="text/css" href="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/css/template_css.css" />
+	<link rel="shortcut icon" href="/images/favicon.ico" />
+	<link rel="shortcut icon" href="/images/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/templates/JavaBean/css/template_css.css" />
 </head>
 <body>
 
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="ffffff">
 <tr>
 	<td width="6" bgcolor="#FFFFFF">
-	<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer" />
+	<img src="/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer" />
 	</td>
 	<td valign="top" class="greybg" >
 		<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="ffffff">
 		<tr>
 			<td bgcolor="#FFFFFF">
-			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="6" alt="spacer" /></td>
+			<img src="/templates/JavaBean/images/pixel.png" width="1" height="6" alt="spacer" /></td>
 
 		</tr>
 		<tr>
@@ -42,7 +42,7 @@ A Review of Internet Privacy Statements and Online Practices
 		</tr>
 		<tr>
 			<td height="10">
-			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="10" alt="spacer" />
+			<img src="/templates/JavaBean/images/pixel.png" width="1" height="10" alt="spacer" />
 			</td>
 		</tr>
 		<tr>
@@ -62,7 +62,7 @@ A Review of Internet Privacy Statements and Online Practices
 				</td>
         <td align="right">
 
-			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/image_01.jpg" width="600" height="50" alt="header" align="right"/>
+			<img src="/templates/JavaBean/images/image_01.jpg" width="600" height="50" alt="header" align="right"/>
 			</td>
 		</tr>
 		</table>
@@ -70,7 +70,7 @@ A Review of Internet Privacy Statements and Online Practices
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 		<tr>
 			<td>
-			<ul id="mainlevel-nav"><li><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_weblinks__catid=75__Itemid=4" class="mainlevel-nav" >Links</a></li><li><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_contact__Itemid=3" class="mainlevel-nav" >Contact Us</a></li><li><a href="http://pipedaproject.idrc.ocadu.ca/index.php__" class="mainlevel-nav" >Home</a></li></ul>			</td>
+			<ul id="mainlevel-nav"><li><a href="/index.php__option=com_weblinks__catid=75__Itemid=4" class="mainlevel-nav" >Links</a></li><li><a href="/index.php__option=com_contact__Itemid=3" class="mainlevel-nav" >Contact Us</a></li><li><a href="/index.php__" class="mainlevel-nav" >Home</a></li></ul>			</td>
 		</tr>
 		</table>
 		
@@ -86,18 +86,18 @@ A Review of Internet Privacy Statements and Online Practices
 			<td>
 				
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_frontpage__Itemid=1" class="mainlevel" >Home</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=19__Itemid=48" class="mainlevel" >About the project</a>
+<tr align="left"><td><a href="/index.php__option=com_frontpage__Itemid=1" class="mainlevel" >Home</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_content__task=view__id=19__Itemid=48" class="mainlevel" >About the project</a>
 
-<div style="padding-left: 4px"><img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/indent1.png" alt="" /><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=blogcategory__id=76__Itemid=62" class="sublevel" id="active_menu">Project Team Bios</a></div>
-<div style="padding-left: 4px"><img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/indent1.png" alt="" /><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=blogcategory__id=68__Itemid=50" class="sublevel" >Bibliography, Resources</a></div>
+<div style="padding-left: 4px"><img src="/templates/JavaBean/images/indent1.png" alt="" /><a href="/index.php__option=com_content__task=blogcategory__id=76__Itemid=62" class="sublevel" id="active_menu">Project Team Bios</a></div>
+<div style="padding-left: 4px"><img src="/templates/JavaBean/images/indent1.png" alt="" /><a href="/index.php__option=com_content__task=blogcategory__id=68__Itemid=50" class="sublevel" >Bibliography, Resources</a></div>
 </td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_contact__Itemid=3" class="mainlevel" >Contact Us</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_search__Itemid=27" class="mainlevel" >Search</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=55__Itemid=70" class="mainlevel" >Conference</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_simpleboard__Itemid=61" class="mainlevel" >Public Forum</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=60__Itemid=76" class="mainlevel" >Supporting Organizations</a></td></tr>
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=66__Itemid=80" class="mainlevel" >Final Report</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_contact__Itemid=3" class="mainlevel" >Contact Us</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_search__Itemid=27" class="mainlevel" >Search</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_content__task=view__id=55__Itemid=70" class="mainlevel" >Conference</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_simpleboard__Itemid=61" class="mainlevel" >Public Forum</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_content__task=view__id=60__Itemid=76" class="mainlevel" >Supporting Organizations</a></td></tr>
+<tr align="left"><td><a href="/index.php__option=com_content__task=view__id=66__Itemid=80" class="mainlevel" >Final Report</a></td></tr>
 </table>			</td>
 		</tr>
 		</table>
@@ -106,7 +106,7 @@ A Review of Internet Privacy Statements and Online Practices
 			<td>
 				
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr align="left"><td><a href="http://pipedaproject.idrc.ocadu.ca/administrator/" class="mainlevel" >Administrator</a></td></tr>
+<tr align="left"><td><a href="/administrator/" class="mainlevel" >Administrator</a></td></tr>
 </table>			</td>
 		</tr>
 		</table>
@@ -117,7 +117,7 @@ A Review of Internet Privacy Statements and Online Practices
 				<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
 				<tr>
 					<td class="pathway">
-					<span class="pathway"><a href="http://pipedaproject.idrc.ocadu.ca/index.php__" class="pathway">Home</a> <img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/arrow.png" border="0" alt="arrow" /> <a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=19__Itemid=48" class="pathway">About the project</a> <img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/arrow.png" border="0" alt="arrow" />   Project Team Bios </span>					</td>
+					<span class="pathway"><a href="/index.php__" class="pathway">Home</a> <img src="/templates/JavaBean/images/arrow.png" border="0" alt="arrow" /> <a href="/index.php__option=com_content__task=view__id=19__Itemid=48" class="pathway">About the project</a> <img src="/templates/JavaBean/images/arrow.png" border="0" alt="arrow" />   Project Team Bios </span>					</td>
 				</tr>
 				</table>
 			<br />
@@ -125,10 +125,10 @@ A Review of Internet Privacy Statements and Online Practices
 				<tr>
 					<td class="mainpage">
 
-				<div class="componentheading">Project Team Members Biographies</div><table class="blog" cellpadding="0" cellspacing="0"><tr><td valign="top"><img src="http://pipedaproject.idrc.ocadu.ca/images/stories/onepixelimage.gif" align="left" hspace="6" alt="" /><p>The PIPEDA project team is made up faculty and students from the Univsersity of Toronto&#39;s Faculty of Law and Faculty of Information Studies.&#160; Click on one of the team member&#39;s link below for more information.</p><br/><br/></td></tr><tr><td valign="top"><table width="100%"  cellpadding="0" cellspacing="0"><tr><td valign="top" width="50%">				<table class="contentpaneopen">
+				<div class="componentheading">Project Team Members Biographies</div><table class="blog" cellpadding="0" cellspacing="0"><tr><td valign="top"><img src="/images/stories/onepixelimage.gif" align="left" hspace="6" alt="" /><p>The PIPEDA project team is made up faculty and students from the Univsersity of Toronto&#39;s Faculty of Law and Faculty of Information Studies.&#160; Click on one of the team member&#39;s link below for more information.</p><br/><br/></td></tr><tr><td valign="top"><table width="100%"  cellpadding="0" cellspacing="0"><tr><td valign="top" width="50%">				<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=39__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=39__Itemid=62" class="contentpagetitle">
 						Rajen Akalu</a>
 									</td>
 							</tr>
@@ -141,7 +141,7 @@ A Review of Internet Privacy Statements and Online Practices
 		</tr>
 						<tr>
 					<td align="left" colspan="2">
-						<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=39__Itemid=62" class="readon">
+						<a href="/index.php__option=com_content__task=view__id=39__Itemid=62" class="readon">
 							Read more...</a>
 					</td>
 				</tr>
@@ -152,7 +152,7 @@ A Review of Internet Privacy Statements and Online Practices
 		</td><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=40__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=40__Itemid=62" class="contentpagetitle">
 						Andrew Clement</a>
 									</td>
 							</tr>
@@ -171,7 +171,7 @@ development of Canada&#39;s information infrastructure. <br />
 		</tr>
 						<tr>
 					<td align="left" colspan="2">
-						<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=40__Itemid=62" class="readon">
+						<a href="/index.php__option=com_content__task=view__id=40__Itemid=62" class="readon">
 							Read more...</a>
 					</td>
 				</tr>
@@ -182,7 +182,7 @@ development of Canada&#39;s information infrastructure. <br />
 		</td></tr><tr><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=43__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=43__Itemid=62" class="contentpagetitle">
 						Sooin Kim</a>
 									</td>
 							</tr>
@@ -195,7 +195,7 @@ development of Canada&#39;s information infrastructure. <br />
 		</tr>
 						<tr>
 					<td align="left" colspan="2">
-						<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=43__Itemid=62" class="readon">
+						<a href="/index.php__option=com_content__task=view__id=43__Itemid=62" class="readon">
 							Read more...</a>
 					</td>
 				</tr>
@@ -206,7 +206,7 @@ development of Canada&#39;s information infrastructure. <br />
 		</td><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=41__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=41__Itemid=62" class="contentpagetitle">
 						Aniz Alani</a>
 									</td>
 							</tr>
@@ -226,7 +226,7 @@ presented by Canadian private sector privacy legislation.			</td>
 		</td></tr><tr><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=42__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=42__Itemid=62" class="contentpagetitle">
 						Barbara Bressolles</a>
 									</td>
 							</tr>
@@ -247,7 +247,7 @@ is admitted to practice law in New Zealand.<br />
 		</tr>
 						<tr>
 					<td align="left" colspan="2">
-						<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=42__Itemid=62" class="readon">
+						<a href="/index.php__option=com_content__task=view__id=42__Itemid=62" class="readon">
 							Read more...</a>
 					</td>
 				</tr>
@@ -258,7 +258,7 @@ is admitted to practice law in New Zealand.<br />
 		</td><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=49__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=49__Itemid=62" class="contentpagetitle">
 						Lisa Austin</a>
 									</td>
 							</tr>
@@ -283,7 +283,7 @@ Frank Iacobucci of the Supreme Court of Canada (1998-1999).			</td>
 		</td></tr><tr><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=48__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=48__Itemid=62" class="contentpagetitle">
 						Nadia Caidi</a>
 									</td>
 							</tr>
@@ -310,7 +310,7 @@ Angeles (UCLA).			</td>
 		</td><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=44__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=44__Itemid=62" class="contentpagetitle">
 						Dave Ley</a>
 									</td>
 							</tr>
@@ -323,7 +323,7 @@ Angeles (UCLA).			</td>
 		</tr>
 						<tr>
 					<td align="left" colspan="2">
-						<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=44__Itemid=62" class="readon">
+						<a href="/index.php__option=com_content__task=view__id=44__Itemid=62" class="readon">
 							Read more...</a>
 					</td>
 				</tr>
@@ -334,7 +334,7 @@ Angeles (UCLA).			</td>
 		</td></tr><tr><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=46__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=46__Itemid=62" class="contentpagetitle">
 						Robert Luke, Ph.D.</a>
 									</td>
 							</tr>
@@ -357,7 +357,7 @@ development. <a href="http://luke.rcat.utoronto.ca/" target="_self">http://luke.
 		</td><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=45__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=45__Itemid=62" class="contentpagetitle">
 						Sapna Mahboobani</a>
 									</td>
 							</tr>
@@ -379,7 +379,7 @@ degree with the Faculty of Information Studies and the Faculty of Law.			</td>
 		</td></tr><tr><td valign="top" width="50%">			<table class="contentpaneopen">
 			<tr>
 								<td class="contentheading" width="100%">
-					<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=47__Itemid=62" class="contentpagetitle">
+					<a href="/index.php__option=com_content__task=view__id=47__Itemid=62" class="contentpagetitle">
 						Andrea Slane</a>
 									</td>
 							</tr>
@@ -399,7 +399,7 @@ proposed solutions adhere to varying conceptions of democracy. &#160;<br />&#160
 		</tr>
 						<tr>
 					<td align="left" colspan="2">
-						<a href="http://pipedaproject.idrc.ocadu.ca/index.php__option=com_content__task=view__id=47__Itemid=62" class="readon">
+						<a href="/index.php__option=com_content__task=view__id=47__Itemid=62" class="readon">
 							Read more...</a>
 					</td>
 				</tr>
@@ -416,7 +416,7 @@ proposed solutions adhere to varying conceptions of democracy. &#160;<br />&#160
 				</table>
 			</td>
 			<td class="mainpage-bkg">
-			<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
+			<img src="/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
 			</td>
 			<td width="50" valign="top">
 				<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -443,7 +443,7 @@ proposed solutions adhere to varying conceptions of democracy. &#160;<br />&#160
 		</table>
 	</td>
 	<td width="6" bgcolor="#FFFFFF">
-	<img src="http://pipedaproject.idrc.ocadu.ca/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
+	<img src="/templates/JavaBean/images/pixel.png" width="1" height="1" alt="spacer"/>
 	</td>
 </tr>
 </table>
